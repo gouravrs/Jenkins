@@ -1,0 +1,15 @@
+java -jar jenkins.war --enable-future-java
+
+https://www.youtube.com/watch?v=rTPdvQmlLfg
+
+
+java -jar jenkins.war --ajp13Port=-1 --httpPort=9090
+localhost:9090
+8080
+8085
+
+
+C:\Users\Pranjal\bamboo-home
+
+JENKINS ALTERNATIVE TOOLS
+
